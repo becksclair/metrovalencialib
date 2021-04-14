@@ -1,0 +1,27 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    
+    <style name="MetroValenciaActionBarStyle" parent="Widget.Sherlock.Light.ActionBar.Solid.Inverse">
+        <item name="actionBarItemBackground">@drawable/ad_selectable_bg</item>
+        <item name="android:actionBarItemBackground">@drawable/ad_selectable_bg</item>
+        
+        <item name="android:selectableItemBackground">@drawable/ad_selectable_bg</item>
+    </style>
+
+    <style name="MyActionBarTabStyle" parent="android:style/Widget.Holo.Light.ActionBar.TabView">
+        <item name="android:background">@drawable/actionbar_tab_bg</item>
+        <item name="android:paddingLeft">20dip</item>
+        <item name="android:paddingRight">20dip</item>
+    </style>
+
+    
+    <!-- AB style the list navigation -->
+    <!--
+    <style name="MyDropDownNav" parent="android:style/Widget.Holo.Light.DropDownItem">
+        <item name="android:background">@drawable/ad_spinner_background_holo_light</item>
+        <item name="android:popupBackground">@drawable/ad_menu_dropdown_panel_holo_light</item>
+        <item name="android:dropDownSelector">@drawable/ad_selectable_background</item>
+    </style>
+    -->
+    <!-- AB style the list navigation -->
+    
+</resources>

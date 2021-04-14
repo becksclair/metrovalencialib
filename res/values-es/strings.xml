@@ -1,0 +1,24 @@
+<resources>
+
+    <string name="app_name">MetroValencia</string>
+    <string name="bookmarks_tab">Favoritos</string>
+    <string name="search_tab">Busqueda</string>
+    <string name="map_tab">Map</string>
+    <string name="new_bookmark">Nuevo</string>
+    <string name="name_lbl">Nombre</string>
+    <string name="departure_lbl">Salida</string>
+    <string name="arrival_lbl">Destino</string>
+    <string name="date_lbl">Fecha</string>
+    <string name="search_btn">Buscar</string>
+    <string name="bookmark_title">Nuevo Favorito</string>
+    <string name="bookmark_save">Guardar</string>
+    <string name="bookmark_delete">Borrar</string>
+    <string name="bookmark_cancel">Cancelar</string>
+    <string name="departure_time_lbl">Hora de salida</string>
+    <string name="arrival_time_lbl">Hora de llegada</string>
+    <string name="dialog_delete_message">Seguro que quieres borrarlo?</string>
+    <string name="loading">Cargando&#8230;</string>
+    <string name="loading_stops">Cargando paradas&#8230;</string>
+    <string name="search_saved">Busqueda guardada</string>
+
+</resources>

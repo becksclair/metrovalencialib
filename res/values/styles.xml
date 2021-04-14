@@ -1,0 +1,17 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="Theme.MetroValencia" parent="Theme.Sherlock.Light.DarkActionBar">
+        <item name="android:listViewStyle">@style/MyListView</item>
+        
+        <item name="actionBarStyle">@style/MetroValenciaActionBarStyle</item>
+        <item name="android:actionBarStyle">@style/MetroValenciaActionBarStyle</item>
+        
+        <item name="actionBarTabStyle">@style/MyActionBarTabStyle</item>
+        <item name="android:actionBarTabStyle">@style/MyActionBarTabStyle</item>
+        
+        <item name="actionBarItemBackground">@drawable/ad_selectable_bg</item>
+        <item name="android:actionBarItemBackground">@drawable/ad_selectable_bg</item>
+        <item name="android:selectableItemBackground">@drawable/ad_selectable_bg</item>
+    </style>
+    
+</resources>

@@ -1,0 +1,24 @@
+<resources>
+
+    <string name="app_name">MetroValencia</string>
+    <string name="bookmarks_tab">Bookmarks</string>
+    <string name="search_tab">Search</string>
+    <string name="map_tab">Map</string>
+    <string name="new_bookmark">New</string>
+    <string name="name_lbl">Name</string>
+    <string name="departure_lbl">Departure</string>
+    <string name="arrival_lbl">Arrival</string>
+    <string name="date_lbl">Date</string>
+    <string name="search_btn">Search</string>
+    <string name="bookmark_title">New Bookmark</string>
+    <string name="bookmark_save">Save</string>
+    <string name="bookmark_delete">Delete</string>
+    <string name="bookmark_cancel">Cancel</string>
+    <string name="departure_time_lbl">Departure time</string>
+    <string name="arrival_time_lbl">Arrival time</string>
+    <string name="dialog_delete_message">Sure you want to delete it?</string>
+    <string name="loading">Loading&#8230;</string>
+    <string name="loading_stops">Loading stops&#8230;</string>
+    <string name="search_saved">Search saved</string>
+
+</resources>
